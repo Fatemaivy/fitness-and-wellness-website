@@ -1,4 +1,4 @@
-/* Resetting margins and padding */
+
 * {
     margin: 0;
     padding: 0;
@@ -17,7 +17,6 @@ body {
     margin: auto;
 }
 
-/* Header */
 header {
     background: #333;
     color: #fff;
@@ -43,7 +42,7 @@ nav ul li a {
     text-decoration: none;
 }
 
-/* Section Styles */
+
 .section {
     padding: 40px 0;
 }
@@ -67,7 +66,6 @@ button:hover {
     background-color: #45a049;
 }
 
-/* Guide and Nutrition Boxes */
 .guide-box, .nutrition-box {
     background: #fff;
     padding: 20px;
@@ -84,7 +82,6 @@ ul li {
     margin: 10px 0;
 }
 
-/* Contact Form */
 form {
     display: grid;
     gap: 15px;
@@ -98,7 +95,7 @@ input, textarea {
     border-radius: 5px;
 }
 
-/* Footer */
+
 footer {
     background: #333;
     color: #fff;
